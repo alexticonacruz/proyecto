@@ -1,0 +1,45 @@
+#header1{
+    background-color: rgb(192, 192, 193);
+}
+.carousel-item{
+    width: 700px;
+    height: 700px;
+    background-color: rgb(228, 228, 228);
+}
+#titulo{
+    margin-left: 2em;
+}
+.carousel-item img{
+    
+}
+
+#m_rojo{
+    margin-left: 30em;
+    padding-top: 3em;
+}
+#menu{
+    margin-left: 15em;
+}
+#tarjeta{
+    margin: 3em;
+}
+.mensaje{
+    border-bottom-style: solid ;
+    border-bottom-color: rgb(228, 228, 228);
+}
+.mensaje img{
+    padding: 2em;
+}
+.footer{
+    background-color: rgb(5, 7, 77);
+    color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.footer div{
+    margin: 2rem;
+    
+}
+.footer a {
+    text-decoration: none;
+}
